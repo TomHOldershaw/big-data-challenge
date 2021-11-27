@@ -14,3 +14,5 @@ Analysis carries out the following steps:
    - Table columns match specified schema
    - Duplicate rows removed where appropriate to avoid Primary Key clashes
 3. Loads tables to RDS database
+
+All files are in the 'level-1' folder. The optional part of the homework, 'level-2' has not been submitted.
